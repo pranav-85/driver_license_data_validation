@@ -12,7 +12,7 @@ This project is an OCR-driven application for extracting key information from dr
 
 ## Dataset
 
-The **Driver's License Text Extraction Dataset** used to train the object detection model is sourced from [Roboflow]([https://roboflow.com/](https://universe.roboflow.com/amyf467-gmail-com/driving-license-dnmj8/dataset/3)). This dataset was used to identify and locate text fields within license images.
+The **Driver's License Text Extraction Dataset** used to train the object detection model is sourced from [Roboflow](https://universe.roboflow.com/amyf467-gmail-com/driving-license-dnmj8/dataset/3). This dataset was used to identify and locate text fields within license images.
 
 ## Models and Libraries Used
 
