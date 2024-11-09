@@ -33,8 +33,7 @@ The **Driver's License Text Extraction Dataset** used to train the object detect
    ```bash
    git clone https://github.com/yourusername/license-text-extraction.git
    cd license-text-extraction
-  ```
-
+  
 2. **Install Python Dependencies**
     ```bash
     pip install -r requirements.txt
