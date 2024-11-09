@@ -43,3 +43,15 @@ The **Driver's License Text Extraction Dataset** used to train the object detect
     ```python
     rf = Roboflow(api_key="YOUR_API_KEY")
     ```
+4. **Start the Flask Backend**
+   ```bash
+   python app.py
+   ```
+5. **Set up React Frontend**
+   ```bash
+   cd app
+   npm install
+   npm start
+   ```
+6. **Access the web application**
+   Open your browser and go to `http://localhost:3000` to access the application.
