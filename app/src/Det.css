@@ -1,0 +1,87 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1em;
+}
+
+.logo span{
+    font-size: 2em;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(13, 194, 235);
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    padding: 2em 4em;
+}
+
+.input-class{
+    display: flex;
+    flex-direction: column;
+}
+.container .input-class .text{
+    color: white;
+    font-size: 3em;
+}
+
+#file-input{
+    border: none;
+    color: white;
+    width: 15em;
+}
+
+.submit-button{
+    width: 5em;
+    position: relative;
+    right: 19.7em;
+    top: 2em;
+    border: none;
+    height: 1.7em;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.submit-button:hover{
+    background-color: rgb(13, 194, 235);
+    color: white;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table th, table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  table th {
+    background-color: #f2f2f2;
+  }
+  
+  table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  table tr:nth-child(odd) {
+    background-color: #b5b5b5;
+  }
+
+  table tr:hover {
+    background-color: #ddd;
+  }
+  
+  .error {
+    color: red;
+    font-size: 14px;
+  }
+  

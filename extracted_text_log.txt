@@ -1,0 +1,27 @@
+Class: Address
+Extracted Text: MANCHESTER, NET03111
+--------------------------------------------------
+Class: Class
+Extracted Text: CHILD
+--------------------------------------------------
+Class: DOB
+Extracted Text: 05/23/2016
+--------------------------------------------------
+Class: Exp date
+Extracted Text: 05/23/2032
+--------------------------------------------------
+Class: First name
+Extracted Text: VALENTINA
+--------------------------------------------------
+Class: Issue date
+Extracted Text: 06/05/2021
+--------------------------------------------------
+Class: Last name
+Extracted Text: VEGA
+--------------------------------------------------
+Class: License number
+Extracted Text: 603-333-3333
+--------------------------------------------------
+Class: Sex
+Extracted Text: E
+--------------------------------------------------
